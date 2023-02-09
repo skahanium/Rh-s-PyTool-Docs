@@ -4,7 +4,7 @@
 lookup(name, level=None)
 ```
 
-根据地名简称查找全称，具体用法参照[示例](../examples/cp_lookup.md#lookup)。
+根据区域名简称查找全称，具体用法参照[示例](../examples/cp_lookup.md#lookup)。
 
 **Arguments**:
 
