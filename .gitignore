@@ -1,0 +1,6 @@
+**/__pycache__
+.DS_Store
+build
+.pdm.toml
+dist
+.venv
