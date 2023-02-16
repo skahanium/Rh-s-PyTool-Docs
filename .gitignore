@@ -4,3 +4,4 @@ build
 .pdm.toml
 dist
 .venv
+nohup.out
