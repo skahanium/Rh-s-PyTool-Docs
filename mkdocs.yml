@@ -1,5 +1,6 @@
 site_name: Rh-s-PyTool-Docs
 site_url: https://github.com/skahanium/Rh-s-PyTool-Docs
+site_dir: /home/ubuntu/skaha/site_pages
 
 repo_url: https://github.com/skahanium/Rh-s-PyTool
 repo_name: skahanium/Rh-s-PyTool
@@ -88,4 +89,4 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2022-2023 Skahanium
+copyright: <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2023002783号</a>
