@@ -17,7 +17,7 @@ nav:
   - 示例:
       - cp_lookup: examples/cp_lookup.md
       - index_calmeth: examples/index_calmeth.md
-  - 博客:
+  - 其他:
       - 更新日志: development/changelog.md
       - 基准测试: development/benchmark.md
 

@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/start/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/start/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/api/cp_lookup/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/api/cp_lookup/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/api/index_calmeth/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/api/index_calmeth/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/development/benchmark/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/development/benchmark/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/development/changelog/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/development/changelog/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/examples/cp_lookup/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/examples/cp_lookup/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/examples/index_calmeth/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/examples/index_calmeth/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/methods/RSR/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/methods/RSR/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/skahanium/Rh-s-PyTool-Documentation/methods/TOPSIS/</loc>
-         <lastmod>2023-02-09</lastmod>
+         <loc>https://github.com/skahanium/Rh-s-PyTool-Docs/methods/TOPSIS/</loc>
+         <lastmod>2023-06-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
